@@ -8,3 +8,7 @@ Additionally, the *optim_neural_style* folder contains a pytorch implementation 
 Note that our AdaIN model was trained on limited hardware and limited time. Training on a larger dataset for longer would likely produce a better result. The model that produced these AdaIN images can be found in ***models/best_model.pth***.
 
 More details about this project can be found in [report.pdf](report.pdf).
+
+## Contributors
+
+* [Hersh Vakharia](https://github.com/hvak)
